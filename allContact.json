@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nom": "Doe",
+        "prenom": "John",
+        "adresse": "123 Main Street",
+        "numero_de_telephone": "555-123-4567"
+    },
+    {
+        "id": 2,
+        "nom": "Smith",
+        "prenom": "Jane",
+        "adresse": "456 Elm Street",
+        "numero_de_telephone": "555-987-6543"
+    },
+    {
+        "id": 3,
+        "nom": "Garcia",
+        "prenom": "Maria",
+        "adresse": "Calle Principal, 28001 Madrid, Espa\u00f1a",
+        "numero_de_telephone": "04 91 234 56 78"
+    }
+]
